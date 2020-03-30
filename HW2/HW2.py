@@ -75,7 +75,7 @@ while True:
                 break
             else:
                 continue    
-        YTM_percent=ytm*100
+        YTM_percent=round(ytm*100,3)
         print("Yield to maturity is "+str(YTM_percent)+"%")
     elif choice==2:
         year_to_maturity=int(input("Please enter year to maturity of the zero coupon bond: "))
