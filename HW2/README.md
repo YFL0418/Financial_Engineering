@@ -1,7 +1,7 @@
 ## 關於HW2
-執行檔 [HW2](/https://github.com/YFL0418/Financial_Engineering/blob/master/HW2/HW2.py)
+執行檔 [HW2](https://github.com/YFL0418/Financial_Engineering/blob/master/HW2/HW2.py)
 
-學習歷程、流程圖 [學習歷程](/https://github.com/YFL0418/Financial_Engineering/blob/master/HW2/HW2%E6%B5%81%E7%A8%8B%E5%9C%96%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
+學習歷程、流程圖 [學習歷程](https://github.com/YFL0418/Financial_Engineering/blob/master/HW2/HW2%E6%B5%81%E7%A8%8B%E5%9C%96%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 
 使用者可以在執行檔中選擇計算YTM、spot rate、forward rate
 
