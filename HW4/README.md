@@ -16,3 +16,4 @@ Price of put is 2.86. Price of call is 12.806.
 
 關於Ito formula中的各項微分型式的變換可以參考HW3中所附上的筆記
 
+*前文中的模擬就是weak convergence
