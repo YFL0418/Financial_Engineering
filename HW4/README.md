@@ -14,3 +14,5 @@ Price of put is 2.86. Price of call is 12.806.
 
 關於random walk模擬布朗運動可以參考Donsker's theorem，我有試過用Prokhorov's theorem去證明，另一證明方法可以參考Durrett's Probability: Theory and Examples，使用Prokhorov's theorem的證明過程較為簡潔，但須了解一部分的拓樸學和測度論。
 
+關於Ito formula中的各項微分型式的變換可以參考HW3中所附上的筆記
+
