@@ -30,6 +30,9 @@ for k in range(min_strike+1, n+1):
     lower_limit=lower_limit*u/d
     C=C+b*(lower_limit-X)/R
 print("the price of call="+str(round(C,3)))
+"Put call parity"
+P=C+X/R-S
+print("the price of put with the same exercise condition="+str(round(P,3)))
     
 
     
