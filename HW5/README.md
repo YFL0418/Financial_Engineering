@@ -11,7 +11,11 @@
 
 以下是相關輸入輸出結果
 
+輸入資料
+
 (strike price, sigma, duration(year), sigma in Hull-White model, a, mean forward rate, current stock price, risk-free interest rate)=(100, 0.01, 0.5, 0.1, 0.1, 0.05, 120, 0.03)
+
+輸出結果
 
 Call price is 23.364.
 
