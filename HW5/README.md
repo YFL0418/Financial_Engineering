@@ -21,6 +21,8 @@
 
 [Stock price process](https://github.com/YFL0418/Financial_Engineering/blob/master/HW5/stock%20price%20process.png)
 
+兩圖的X軸單位為年份，Y軸則分別為short rate(instantaneous rate)和股價
+
 Call price is 22.852.
 
 Put price is 0.472.
