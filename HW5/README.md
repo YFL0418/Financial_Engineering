@@ -17,6 +17,9 @@
 
 輸出結果
 
+[Short rate process](https://github.com/YFL0418/Financial_Engineering/blob/master/HW5/short%20rate%20process.png)
+
+
 Call price is 23.364.
 
 Put price is 0.443.
