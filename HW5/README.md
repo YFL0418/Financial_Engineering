@@ -19,7 +19,8 @@
 
 [Short rate process](https://github.com/YFL0418/Financial_Engineering/blob/master/HW5/short%20rate%20process.png)
 
+[Stock price process](https://github.com/YFL0418/Financial_Engineering/blob/master/HW5/stock%20price%20process.png)
 
-Call price is 23.364.
+Call price is 22.852.
 
-Put price is 0.443.
+Put price is 0.472.
