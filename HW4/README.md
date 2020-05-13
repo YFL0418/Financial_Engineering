@@ -1,6 +1,8 @@
 # 關於HW4
 [執行檔](https://github.com/YFL0418/Financial_Engineering/blob/master/HW4/HW4.py)
 
+[執行畫面](https://github.com/YFL0418/Financial_Engineering/blob/master/HW4/hw4%E5%9F%B7%E8%A1%8C%E7%95%AB%E9%9D%A2.jpg)
+
 Price of put is 2.86. Price of call is 12.806.
 
 作業流程簡述如下:
